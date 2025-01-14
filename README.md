@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 🙋🏻‍♂️ Welcome to my profile!
 
@@ -34,6 +33,6 @@ Here are the top technologies I use
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithaquib&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhisingh980&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithaquib&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisingh980&layout=compact&theme=radical)  
