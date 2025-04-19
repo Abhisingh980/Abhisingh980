@@ -39,3 +39,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisingh980&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+ -------
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhising980&hide=prs,contribs?username=prakriti42&count_private=true?username=prakriti42&show_icons=true&layout=compact&theme=midnight-purple)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhisingh980&theme=midnight-purple&hide_border=true&fire=DD2727)]
+(https://git.io/streak-stats)
+
