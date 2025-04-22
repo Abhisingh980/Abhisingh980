@@ -40,11 +40,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisingh980&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 📈 GitHub Insights
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhisingh980&theme=radical&hide_border=true&fire=FF6B6B" alt="GitHub Streak"/>
-  </a>
-</p>
 
